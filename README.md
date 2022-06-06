@@ -1,1 +1,1 @@
-https://github.com/Oltinoy1221/rsschool-cv/blob/gh-pages/CV.md
+https://oltinoy1221.github.io/rsschool-cv/cv
