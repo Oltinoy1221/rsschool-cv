@@ -1,1 +1,1 @@
-https://oltinoy1221.github.io/rsschool-cv/cv
+https://oltinoy1221.github.io/rsschool-cv/
